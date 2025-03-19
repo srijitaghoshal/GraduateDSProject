@@ -1,4 +1,4 @@
-### Underlying Factors that Contribute to University Dropout Rates
+# Underlying Factors that Contribute to University Dropout Rates
 
 ## Overview
 Utilizes a Kaggle dataset containing 36 features about student demographics including gender, ethnicity, previous qualifications,
